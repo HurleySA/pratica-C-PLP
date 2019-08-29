@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567100896 source:c:\users\matheus\desktop\pratica-c-plp\ultimavogal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
