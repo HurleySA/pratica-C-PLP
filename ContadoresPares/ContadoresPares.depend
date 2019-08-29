@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567099103 source:c:\users\matheus\desktop\pratica-c-plp\contadorespares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
