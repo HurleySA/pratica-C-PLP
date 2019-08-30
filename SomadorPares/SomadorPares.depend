@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567158385 source:c:\users\matheus\desktop\pratica-c-plp\praticas-c-plp\somadorpares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
